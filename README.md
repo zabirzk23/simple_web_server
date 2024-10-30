@@ -5,7 +5,7 @@
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
 
 # DESIGN STEPS:
-# Step 1:
+## Step 1:
 HTML content creation.
 
 # Step 2:
